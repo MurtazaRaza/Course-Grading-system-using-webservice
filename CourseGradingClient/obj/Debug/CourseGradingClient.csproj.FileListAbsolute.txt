@@ -1,0 +1,9 @@
+C:\Users\Admin\documents\visual studio 2015\Projects\CourseGradingWebService\CourseGradingClient\bin\Debug\CourseGradingClient.exe.config
+C:\Users\Admin\documents\visual studio 2015\Projects\CourseGradingWebService\CourseGradingClient\bin\Debug\CourseGradingClient.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\CourseGradingWebService\CourseGradingClient\bin\Debug\CourseGradingClient.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CourseGradingWebService\CourseGradingClient\obj\Debug\CourseGradingClient.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2015\Projects\CourseGradingWebService\CourseGradingClient\obj\Debug\CourseGradingClient.Form1.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\CourseGradingWebService\CourseGradingClient\obj\Debug\CourseGradingClient.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\CourseGradingWebService\CourseGradingClient\obj\Debug\CourseGradingClient.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2015\Projects\CourseGradingWebService\CourseGradingClient\obj\Debug\CourseGradingClient.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\CourseGradingWebService\CourseGradingClient\obj\Debug\CourseGradingClient.pdb

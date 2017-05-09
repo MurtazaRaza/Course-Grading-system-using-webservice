@@ -1,0 +1,2 @@
+Better exception handling.
+Removed unused table "Grades".
